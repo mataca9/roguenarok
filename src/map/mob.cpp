@@ -386,6 +386,24 @@ struct view_data * mob_get_viewdata(int mob_id)
 	return &db->vd;
 }
 
+e_mob_bosstype mob_db::get_bosstype(){
+	if( status_has_mode( &this->status, MD_MVP ) ){
+		return BOSSTYPE_MVP;
+	}else if( this->status.class_ == CLASS_BOSS ){
+		return BOSSTYPE_MINIBOSS;
+	}else{
+		return BOSSTYPE_NONE;
+	}
+}
+
+e_mob_bosstype mob_data::get_bosstype(){
+	if( this->db != nullptr ){
+		return this->db->get_bosstype();
+	}else{
+		return BOSSTYPE_NONE;
+	}
+}
+
 /**
  * Create unique view data associated to a spawned monster.
  * @param md: Mob to adjust
@@ -572,7 +590,7 @@ bool mob_ksprotected (struct block_list *src, struct block_list *target)
 		if( mapdata->flag[MF_ALLOWKS] || mapdata_flag_ks(mapdata) )
 			return false; // Ignores GVG, PVP and AllowKS map flags
 
-		if( status_has_mode( &md->db->status, MD_MVP ) || md->master_id )
+		if( md->get_bosstype() == BOSSTYPE_MVP || md->master_id )
 			return false; // MVP, Slaves mobs ignores KS
 
 		if( (sce = md->sc.data[SC_KSPROTECTED]) == nullptr )
@@ -2414,7 +2432,7 @@ void mob_log_damage(struct mob_data *md, struct block_list *src, int damage)
 				md->dmglog[i].id  = char_id;
 				md->dmglog[i].flag= flag;
 
-				if( status_has_mode( &md->db->status, MD_MVP ) )
+				if( md->get_bosstype() == BOSSTYPE_MVP )
 					pc_damage_log_add(map_charid2sd(char_id),md->bl.id);
 				break;
 			}
@@ -2431,7 +2449,7 @@ void mob_log_damage(struct mob_data *md, struct block_list *src, int damage)
 			md->dmglog[minpos].flag= flag;
 			md->dmglog[minpos].dmg = damage;
 
-			if( status_has_mode( &md->db->status, MD_MVP ) )
+			if( md->get_bosstype() == BOSSTYPE_MVP )
 				pc_damage_log_add(map_charid2sd(char_id),md->bl.id);
 		}
 	}
@@ -2644,7 +2662,7 @@ int mob_dead(struct mob_data *md, struct block_list *src, int type)
 			if(battle_config.zeny_from_mobs && md->level) {
 				 // zeny calculation moblv + random moblv [Valaris]
 				zeny=(int) ((md->level+rnd()%md->level)*per*bonus/100.);
-				if( status_has_mode( &md->db->status, MD_MVP ) )
+				if( md->get_bosstype() == BOSSTYPE_MVP )
 					zeny*=rnd()%250;
 			}
 
@@ -2728,7 +2746,7 @@ int mob_dead(struct mob_data *md, struct block_list *src, int type)
 					pc_getzeny(tmpsd[i], zeny, LOG_TYPE_PICKDROP_MONSTER, NULL);
 			}
 
-			if( status_has_mode( &md->db->status, MD_MVP ) )
+			if( md->get_bosstype() == BOSSTYPE_MVP )
 				pc_damage_log_clear(tmpsd[i],md->bl.id);
 		}
 
@@ -2919,7 +2937,7 @@ int mob_dead(struct mob_data *md, struct block_list *src, int type)
 		add_timer(tick + (!battle_config.delay_battle_damage?500:0), mob_delay_item_drop, 0, (intptr_t)dlist);
 	}
 
-	if( mvp_sd && status_has_mode( &md->db->status, MD_MVP ) ){
+	if( mvp_sd && md->get_bosstype() == BOSSTYPE_MVP ){
 		t_itemid log_mvp_nameid = 0;
 		t_exp log_mvp_exp = 0;
 
@@ -5398,8 +5416,8 @@ static void mob_drop_ratio_adjust(void){
 				ratemin = battle_config.item_drop_treasure_min;
 				ratemax = battle_config.item_drop_treasure_max;
 			} else {
-				bool is_mvp = status_has_mode(&mob->status,MD_MVP);
-				bool is_boss = (mob->status.class_ == CLASS_BOSS);
+				bool is_mvp = mob->get_bosstype() == BOSSTYPE_MVP;
+				bool is_boss = mob->get_bosstype() == BOSSTYPE_MINIBOSS;
 
 				is_treasurechest = false;
 
