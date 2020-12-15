@@ -1,0 +1,485 @@
+	//4177 2018-05-23aRagexe.rgz
+4178 2018-05-23data_true_001.rgz
+4179 2018-05-23data_true_001.gpf
+4180 2018-05-23data_true_002.gpf
+4181 2018-05-23data_true_003.gpf
+	//4182 2018-05-30aRagexe.rgz
+4183 2018-05-30data_true_001.rgz
+4184 2018-05-30data_true_001.gpf
+	//4185 2018-06-05bRagexe.rgz
+4186 2018-06-05data_true_001.gpf
+4187 2018-06-05data_true_001.rgz
+4188 2018-06-05data_true_002.rgz
+4189 2018-06-05data_true_003.rgz
+4190 2018-06-05data_true_004.gpf
+4191 2018-06-12data_true_k1.gpf
+4192 2018-06-12data_true_001.rgz
+4193 2018-06-20data_all_k1.gpf
+	//4194 2018-06-20cRagexe.rgz
+	//4195 2018-06-20data_true_001.rgz
+	//4196 2018-06-20data_true_001.gpf
+4197 2018-06-20data_all_k2.gpf
+4198 2018-06-20data_true_003.rgz
+4199 2018-06-20data_true_003.gpf
+4200 2018-06-20data_true_004.gpf
+4201 2018-06-20data_all_k3.gpf
+	//4202 2018-06-20eRagexe.rgz
+4203 2018-06-20data_true_005.rgz
+4204 2018-06-20data_true_005.gpf
+4205 2018-06-20data_true_006.gpf
+4206 2018-06-20data_true_007.gpf
+	//4207 2018-06-21aRagexe.rgz
+4208 2018-06-21data_all_k1.gpf
+4209 2018-06-27data_true_001.rgz
+4210 2018-06-27data_true_001.gpf
+4211 2018-06-27data_cd_k1.rgz
+4212 2018-06-27data_true_002.gpf
+4213 2018-06-27data_true_003.gpf
+	//4214 2018-07-04aRagexe.rgz
+4215 2018-07-04data_true_001.rgz
+4216 2018-07-04data_true_001.gpf
+4217 2018-07-04data_true_002.gpf
+4218 2018-07-04data_true_003.rgz
+4219 2018-07-11data_true_k1.rgz
+4220 2018-07-11data_true_001.rgz
+4221 2018-07-11data_true_002.gpf
+	//4222 2018-07-18bRagexe.rgz
+4223 2018-07-18data_true_001.rgz
+4224 2018-07-18data_true_001.gpf
+4225 2018-07-18data_true_002.rgz
+4226 2018-07-18data_true_003.gpf
+4227 2018-07-18data_true_004.gpf
+4228 2018-07-18data_true_005.rgz
+4229 2018-07-18data_true_006.rgz
+	//4230 2018-07-18cRagexe.rgz
+4231 2018-07-25data_true_001.rgz
+4232 2018-07-25data_true_001.gpf
+4233 2018-07-25data_true_002.gpf
+4234 2018-07-25data_true_003.gpf
+4235 2018-07-25data_true_004.rgz
+	//4236 2018-07-25data_true_005.rgz
+4237 2018-07-25data_true_005.rgz
+	//4238 2018-08-01cRagexe.rgz
+4239 2018-08-01data_true_k1.rgz
+4240 2018-08-01data_all_k1.gpf
+4241 2018-08-01data_true_k1.gpf
+4242 2018-08-01data_true_k3.rgz
+	//4243 2018-08-01data_true_002.gpf
+4244 2018-08-01data_true_003.rgz
+4245 2018-08-01data_true_003.gpf
+4246 2018-08-01data_true_004.gpf
+4247 2018-08-01data_true_005.gpf
+	//4248 2018-08-08bRagexe.rgz
+4249 2018-08-08data_true_001.rgz
+4250 2018-08-08data_true_001.gpf
+4251 2018-08-08data_true_002.rgz
+4252 2018-08-08data_true_003.gpf
+4253 2018-08-08data_all_k1.gpf
+	//4254 2018-08-14data_all_k1.gpf
+4255 2018-08-08data_true_005.gpf
+4256 2018-08-14data_true_k1.rgz
+4257 2018-08-14data_all_k1.gpf
+4258 2018-08-14data_true_001.rgz
+4259 2018-08-14data_true_001.gpf
+	//4260 2018-08-22cRagexe.rgz
+4261 2018-08-22data_true_001.rgz
+4262 2018-08-22data_true_001.gpf
+	//4263 2018-08-29aRagexe.rgz
+4264 2018-08-29data_true_001.rgz
+4265 2018-08-29data_true_001.gpf
+4266 2018-08-29data_true_002.rgz
+4267 2018-08-29data_true_003.rgz
+4268 2018-08-29data_true_004.rgz
+	//4269 2018-08-31aRagexe.rgz
+4270 2018-09-05data_true_001.gpf
+4271 2018-09-05data_true_001.rgz
+4272 2018-09-05data_true_002.gpf
+4273 2018-09-05data_true_003.rgz
+	//4274 2018-09-12dRagexe.rgz
+4275 2018-09-12data_true_001.gpf
+4276 2018-09-12data_true_001.rgz
+4277 2018-09-12data_true_002.gpf
+4278 2018-09-12data_true_003.gpf
+	//4279 2018-09-19aRagexe.rgz
+4280 2018-09-19data_true_k1.gpf
+4281 2018-09-19data_true_001.rgz
+4282 2018-09-19data_true_001.gpf
+4283 2018-09-19data_true_002.rgz
+4284 2018-09-19data_true_003.gpf
+4285 2018-09-19data_true_004.gpf
+4286 2018-09-19data_true_005.gpf
+	//4287 2018-10-02aRagexe.rgz
+4288 2018-10-02data_true_001.gpf
+4289 2018-10-02data_true_001.rgz
+4290 2018-10-02data_true_002.gpf
+4291 2018-10-02data_true_002.rgz
+4292 2018-10-02data_true_003.rgz
+4293 2018-10-02data_true_004.rgz
+4294 2018-10-02data_true_005.gpf
+	//4295 2018-10-02bRagexe.rgz
+4296 2018-10-10data_true_001.gpf
+4297 2018-10-10data_true_001.rgz
+4298 2018-10-10data_true_002.gpf
+	//4299 2018-10-17bRagexe.rgz
+4300 2018-10-17data_true_001.gpf
+4301 2018-10-17data_true_001.rgz
+4302 2018-10-17data_true_002.gpf
+4303 2018-10-17data_true_003.rgz
+4304 2018-10-17data_true_003.gpf
+	//4305 2018-10-17_02aRagexe.rgz
+	//4306 2018-10-17_03aRagexe.rgz
+	//4307 2018-10-24bRagexe.rgz
+4308 2018-10-24data_true_001.rgz
+4309 2018-10-24data_true_001.gpf
+	//4310 2018-10-24data_true_001.gpf
+	//4311 2018-10-24data_true_001.rgz
+4312 2018-10-24data_true_002.rgz
+4313 2018-10-24data_true_001.gpf
+	//4314 2018-10-31aRagexe.rgz
+4315 2018-10-31data_true_001.gpf
+4316 2018-10-31data_true_001.rgz
+4317 2018-10-31data_true_002.gpf
+	//4318 2018-10-31bRagexe.rgz
+	//4319 2018-11-07aRagexe.rgz
+4320 2018-11-07data_true_001.rgz
+4321 2018-11-07data_true_001.gpf
+4322 2018-11-07data_true_002.gpf
+4323 2018-11-07data_true_002.rgz
+4324 2018-11-07data_true_003.rgz
+4325 2018-11-07data_true_004.gpf
+	//4326 2018-11-14cRagexe.rgz
+4327 2018-11-14data_true_001.gpf
+4328 2018-11-14data_true_J1.gpf
+4329 2018-11-14data_true_J2.rgz
+	//4330 2018-11-14dRagexe.rgz
+	//4331 2018-11-21bRagexe.rgz
+4332 2018-11-21data_true_001.gpf
+4333 2018-11-21data_true_001.rgz
+4334 2018-11-21data_true_002.rgz
+	//4335 2018-11-28aRagexe.rgz
+4336 2018-11-28data_true_001.gpf
+4337 2018-11-28data_true_002.gpf
+	//4338 2018-11-28bRagexe.rgz
+	//4339 2018-11-28cRagexe.rgz
+	//4340 2018-12-05aRagexe.rgz
+4341 2018-12-05data_true_001.rgz
+4342 2018-12-05data_true_001.gpf
+4343 2018-12-05data_true_002.gpf
+4344 2018-12-05data_true_003.rgz
+	//4345 2018-12-12aRagexe.rgz
+4346 2018-12-12data_true_001.gpf
+4347 2018-12-12data_true_001.rgz
+4348 2018-12-12data_trueJ3.gpf
+4349 2018-12-12data_true_002.gpf
+	//4350 2018-12-12bRagexe.rgz
+4351 2018-12-12data_true_003.gpf
+4352 2018-12-12data_true_004.gpf
+4353 2018-12-12data_trueJh.rgz
+	//4354 2018-12-19bRagexe.rgz
+4355 2018-12-19_true_jj.rgz
+4356 2018-12-19data_true_001.rgz
+4357 2018-12-19data_true_001.gpf
+4358 2018-12-19data_true_002.gpf
+4359 2018-12-19data_true_003.rgz
+4360 2018-12-26_truejj.gpf
+	//4361 2018-12-26aRagexe.rgz
+4362 2018-12-26data_true_001.gpf
+4363 2018-12-26data_true_002.gpf
+4364 2019-01-02data_true_001.gpf
+4365 2019-01-02data_true_001.rgz
+4366 2019-01-02data_true_002.gpf
+4367 2019-01-02data_true_003.gpf
+4368 2019-01-02data_true_004.gpf
+4369 2019-01-02data_true_005.rgz
+	//4370 2019-01-09aRagexe.rgz
+4371 2019-01-09data_true_001.rgz
+4372 2019-01-09data_true_001.gpf
+	//4373 2019-01-16bRagexe.rgz
+4374 2019-01-16data_true_001.gpf
+4375 2019-01-16data_true_001.rgz
+4376 2019-01-16data_true_002.gpf
+	//4377 2019-01-16cRagexe.rgz
+	//4378 2019-01-23dRagexe.rgz
+4379 2019-01-23data_true_001.rgz
+4380 2019-01-23data_true_001.gpf
+4381 2019-01-23_true_j.gpf
+4382 2019-01-30data_true_001.gpf
+4383 2019-02-07data_true_001.rgz
+4384 2019-02-07data_true_002.gpf
+4385 2019-02-07data_true_002.rgz
+4386 2019-02-13data_true_001.rgz
+4387 2019-02-13data_true_001.gpf
+	//4388 2019-02-13bRagexe.rgz
+4389 2019-02-13data_true_002.gpf
+4390 2019-02-13data_true_J.rgz
+	//4391 2019-02-13eRagexe.rgz
+4392 2019-02-20data_truej.gpf
+4393 2019-02-20data_true_001.gpf
+4394 2019-02-20data_true_001.rgz
+4395 2019-02-20data_truej2.gpf
+	//4396 2019-02-27aRagexe.rgz
+4397 2019-02-27data_true_001.gpf
+4398 2019-02-27data_true_001.rgz
+4399 2019-02-27data_true_002.gpf
+	//4400 2019-02-28aRagexe.rgz
+4401 2019-03-06data_true_J.gpf
+4402 2019-03-06data_true_001.rgz
+4403 2019-03-06data_true_001.gpf
+	//4404 2019-03-06bRagexe.rgz
+	//4405 2019-03-06cRagexe.rgz
+	//4406 2019-03-13aRagexe.rgz
+4407 2019-03-13data_guildtip.rgz
+4408 2019-03-13data_true_J.rgz
+4409 2019-03-13data_true_001.rgz
+4410 2019-03-13data_true_001.gpf
+4411 2019-03-13data_true_J2.rgz
+4412 2019-03-13data_true_002.gpf
+	//4413 2019-03-20aRagexe.rgz
+4414 2019-03-20data_true_002.gpf
+4415 2019-03-20data_true_002.rgz
+4416 2019-03-20data_true_H.gpf
+4417 2019-03-20data_true_W.rgz
+	//4418 2019-03-22aRagexe.rgz
+	//4419 2019-03-27bRagexe.rgz
+4420 2019-03-27data_true_001.rgz
+4421 2019-03-27data_true_001.gpf
+4422 2019-04-03data_true_001.rgz
+4423 2019-04-03data_true_JJ.gpf
+4424 2019-04-03data_true_001.gpf
+	//4425 2019-04-03aRagexe.rgz
+4426 2019-04-03data_true_002.gpf
+4427 2019-04-10data_true_001.gpf
+4428 2019-04-10data_true_001.rgz
+4429 2019-04-10data_true_002.gpf
+4430 2019-04-17data_true_001.rgz
+4431 2019-04-17data_true_001.gpf
+	//4432 2019-04-17aRagexe.rgz
+4433 2019-04-18data_true_001.gpf
+	//4434 2019-04-18aRagexe.rgz
+4435 2019-04-24data_true_001.rgz
+4436 2019-04-24data_true_001.gpf
+4437 2019-05-02_True_J.rgz
+4438 2019-05-02_True_J2.gpf
+4439 2019-05-02data_true_001.rgz
+4440 2019-05-02data_true_001.gpf
+4441 2019-05-02_True_J3.rgz
+4442 2019-05-02data_true_002.rgz
+4443 2019-05-02data_true_003.rgz
+	//4444 2019-05-02_True_J4.rgz
+4445 2019-05-02_True_J5.rgz
+	//4446 2019-05-08cRagexe.rgz
+4447 2019-05-08data_true_001.rgz
+4448 2019-05-08data_true_001.gpf
+4449 2019-05-15data_TrueJ.rgz
+4450 2019-05-15data_true_002.gpf
+4451 2019-05-15data_true_002.rgz
+4452 2019-05-15data_true_003.rgz
+4453 2019-05-22data_true_J.gpf
+4454 2019-05-22data_true_J2.gpf
+	//4455 2019-05-22bRagexe.rgz
+4456 2019-05-22data_true_001.gpf
+4457 2019-05-22data_true_001.rgz
+4458 2019-05-22data_true_002.gpf
+4459 2019-05-22data_true_002.rgz
+4460 2019-05-22data_true_003.gpf
+4461 2019-05-22data_true_004.gpf
+	//4462 2019-05-22cRagexe.rgz
+4463 2019-05-23data_true_001.gpf
+	//4464 2019-05-23aRagexe.rgz
+4465 2019-05-23data_true_002.gpf
+4466 2019-05-29data_true_001.rgz
+4467 2019-05-29data_true_001.gpf
+	//4468 2019-05-29aRagexe.rgz
+	//4469 2019-05-29cRagexe.rgz
+	//4470 2019-05-30aRagexe.rgz
+	//4471 2019-06-05fRagexe.rgz
+4472 2019-06-05data_true_001.rgz
+4473 2019-06-05data_true_001.gpf
+4474 2019-06-05data_true_002.rgz
+	//4475 2019-06-05KRagexe.rgz
+4476 2019-06-12data_true_001.gpf
+4477 2019-06-12data_true_001.rgz
+4478 2019-06-12_true_H.gpf
+	//4479 2019-06-19data_true_001.gpf
+	//4480 2019-06-19data_true_001.rgz
+4481 2019-06-19_data_true_k1.gpf
+	//4482 2019-06-19bRagexe.rgz
+4483 2019-06-19data_true_001.rgz
+4484 2019-06-19data_true_001.gpf
+4485 2019-06-19data_true_002.rgz
+	//4486 2019-06-19data_true_003.rgz
+4487 2019-06-19data_true_004.rgz
+4488 2019-06-19_data_true_k2.gpf
+4489 2019-06-19data_true_j.gpf
+	//4490 2019-06-19eRagexe.rgz
+4491 2019-06-19data_true_006.rgz
+	//4492 2019-06-19hRagexe.rgz
+4493 2019-06-26data_true_001.rgz
+4494 2019-06-26data_true_001.gpf
+4495 2019-07-03data_true_001.gpf
+4496 2019-07-03data_true_001.rgz
+	//4497 2019-07-03aRagexe.rgz
+4498 2019-07-03data_true_002.gpf
+4501 2019-07-10data_true_001.gpf
+4502 2019-07-10data_true_001.rgz
+4503 2019-07-17data_true_001.rgz
+4504 2019-07-17data_true_001.gpf
+	//4505 2019-07-17aRagexe.rgz
+	//4506 2019-07-17dRagexe.rgz
+4507 2019-07-17data_true_002.gpf
+	//4508 2019-07-24aRagexe.rgz
+4509 2019-07-24data_true_001.rgz
+4510 2019-07-24data_true_001.gpf
+	//4511 2019-07-31bRagexe.rgz
+4512 2019-07-31data_client_true.gpf
+4513 2019-07-31data_J.rgz
+4514 2019-07-31data_true_001.rgz
+4515 2019-07-31data_true_001.gpf
+4516 2019-07-31data_true_002.rgz
+4517 2019-07-31data_true_002.gpf
+	//4518 2019-08-02aRagexe.rgz
+	//4519 2019-08-07aRagexe.rgz
+4520 2019-08-07data_true_001.rgz
+4521 2019-08-07data_true_001.gpf
+4522 2019-08-07data_true_002.gpf
+4523 2019-08-07data_true_002.rgz
+4524 2019-08-07data_true_003.rgz
+4525 2019-08-07_data_true_k1.gpf
+4526 2019-08-14data_true_001.rgz
+4527 2019-08-14data_true_001.gpf
+4528 2019-08-13data_emblem_frame.gpf
+	//4529 2019-08-21aRagexe.rgz
+4530 2019-08-21data_true_001.rgz
+4531 2019-08-21data_true_001.gpf
+4532 2019-08-21data_true_002.gpf
+4533 2019-08-28data_true_001.rgz
+4534 2019-08-28data_true_001.gpf
+	//4535 2019-08-28aRagexe.rgz
+4536 2019-09-04_data_true_J.gpf
+	//4537 2019-09-04aRagexe.rgz
+	//4538 2019-09-04bRagexe.rgz
+4539 2019-09-04data_true_001.gpf
+4540 2019-09-04data_true_001.rgz
+4541 2019-09-04data_true_002.rgz
+4542 2019-09-04data_true_002.gpf
+4543 2019-09-04data_true_003.rgz
+4544 2019-09-04data_true_004.gpf
+4545 2019-09-11data_true_001.rgz
+4546 2019-09-11data_true_001.gpf
+4547 2019-09-11data_truej.gpf
+4548 2019-09-18data_trueJ.gpf
+4549 2019-09-18data_true_001.rgz
+4550 2019-09-18data_true_001.gpf
+	//4551 2019-09-18bRagexe.rgz
+4552 2019-09-18data_true_002.gpf
+4553 2019-09-25data_true_001.rgz
+4554 2019-09-25data_true_001.gpf
+	//4555 2019-09-25aRagexe.rgz
+	//4556 2019-09-25bRagexe.rgz
+4557 2019-10-02data_true_001.rgz
+4558 2019-10-02data_true_001.gpf
+4559 2019-10-02data_true_E.gpf
+	//4560 2019-10-02cRagexe.rgz
+	//4561 2019-10-02dRagexe.rgz
+4562 2019-10-08data_true_001.rgz
+4563 2019-10-08data_true_001.gpf
+4564 2019-10-08data_true_002.rgz
+4565 2019-10-16data_true_001.gpf
+4566 2019-10-16data_true_001.rgz
+	//4567 2019-10-16fRagexe.rgz
+4568 2019-10-16data_true_002.rgz
+4569 2019-10-16data_true_003.gpf
+	//4570 2019-10-16gRagexe.rgz
+4571 2019-10-16data_true_004.gpf
+	//4572 2019-10-18aRagexe.rgz
+	//4573 2019-10-23aRagexe.rgz
+4574 2019-10-23data_true_001.gpf
+4575 2019-10-23data_true_001.rgz
+4576 2019-10-23data_true_002.gpf
+	//4577 2019-10-30cRagexe.rgz
+4578 2019-10-30data_true_001.gpf
+4579 2019-10-30data_true_001.rgz
+4580 2019-10-30data_true_002.gpf
+4581 2019-10-30data_true_003.gpf
+4582 2019-10-30data_true_003.rgz
+4583 2019-11-06data_true_001.rgz
+4584 2019-11-06data_true_001.gpf
+	//4585 2019-11-06aRagexe.rgz
+4586 2019-11-06data_true_002.gpf
+4587 2019-11-06data_true_003.rgz
+4588 2019-11-07data_true_001.gpf
+4589 2019-11-07data_true_001.rgz
+	//4590 2019-11-07aRagexe.rgz
+	//4591 2019-11-13cRagexe.rgz
+4592 2019-11-13data_true_001.gpf
+4593 2019-11-13data_true_001.rgz
+	//4594 2019-11-13eRagexe.rgz
+	//4595 2019-11-20aRagexe.rgz
+	//4596 2019-11-19data_true_001.gpf
+4597 2019-11-19data_true_001.rgz
+4598 2019-11-19data_true_001.gpf
+4599 2019-11-20data_true_001.gpf
+	//4600 2019-11-20dRagexe.rgz
+	//4601 2019-11-27aRagexe.rgz
+4602 2019-11-27data_true_001.rgz
+4603 2019-11-27data_true_001.gpf
+	//4604 2019-11-27bRagexe.rgz
+	//4605 2019-12-04aRagexe.rgz
+4606 2019-12-04data_true_001.rgz
+4607 2019-12-04data_true_001.gpf
+4608 2019-12-04data_true_002.gpf
+4609 2019-12-04data_true_003.gpf
+	//4610 2019-12-04bRagexe.rgz
+	//4611 2019-12-11aRagexe.rgz
+4612 2019-12-11_data_trueJ1.gpf
+4613 2019-12-11_data_trueJ2.gpf
+4614 2019-12-11data_true_001.gpf
+4615 2019-12-11data_true_001.rgz
+4616 2019-12-11data_true_002.gpf
+4617 2019-12-11data_true_003.gpf
+	//4618 2019-12-18bRagexe.rgz
+4619 2019-12-17data_true_001.gpf
+4620 2019-12-17data_true_001.rgz
+	//4621 2019-12-24aRagexe.rgz
+4622 2019-12-23data_true_001.gpf
+4623 2019-12-23data_true_001.rgz
+	//4624 2019-12-24bRagexe.rgz
+4625 2019-12-24data_true_002.gpf
+4626 2020-01-02data_true_001.rgz
+4627 2020-01-07data_true_001.gpf
+4628 2020-01-07data_true_001.rgz
+	//4629 2020-01-08aRagexe.rgz
+4630 2020-01-08data_trueJ.gpf
+4631 2020-01-14data_true_001.gpf
+4632 2020-01-14data_true_001.rgz
+4633 2020-01-14data_true_002.gpf
+4634 2020-01-15data_trueJ.rgz
+4635 2020-01-15data_Truej2.rgz
+4636 2020-01-15data_trueJ3.rgz
+4637 2020-01-21data_true_001.gpf
+4638 2020-01-21data_true_001.rgz
+	//4639 2020-01-22cRagexe.rgz
+4640 2020-01-22data_true_002.rgz
+4641 2020-01-22data_true_003.gpf
+4642 2020-01-28data_true_001.gpf
+4643 2020-01-28data_true_001.rgz
+	//4644 2020-01-29bRagexe.rgz
+4645 2020-01-29data_true_002.gpf
+4646 2020-01-30data_true_001.gpf
+	//4647 2020-01-30aRagexe.rgz
+4648 2020-02-04data_true_001.rgz
+4649 2020-02-04data_true_001.gpf
+	//4650 2020-02-05aRagexe.rgz
+4651 2020-02-05data_true_002.gpf
+	//4652 2020-02-06aRagexe.rgz
+4653 2020-02-11data_true_001.gpf
+4654 2020-02-11data_true_001.rgz
+	//4655 2020-02-12aRagexe.rgz
+4656 2020-02-12data_true_002.gpf
+4657 2020-02-12data_true_003.gpf
+4658 2020-02-12data_true_004.gpf
+4659 2020-02-18data_true_001.rgz
+4660 2020-02-18data_true_001_1.gpf
+4661 2020-02-18data_true_001_2.gpf
+	//4662 2020-02-19dRagexe.rgz
+4663 2020-02-26_true_j.rgz

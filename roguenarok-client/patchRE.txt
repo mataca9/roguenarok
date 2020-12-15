@@ -1,0 +1,439 @@
+	//4182 2018-05-23aRagexeRE.rgz
+4183 2018-05-23data_sakray_001.rgz
+4184 2018-05-23data_sakray_001.gpf
+	//4185 2018-05-30bRagexeRE.rgz
+4186 2018-05-30data_sakray_001.gpf
+4187 2018-05-30data_sakray_001.rgz
+4188 2018-05-30data_sakray_k1.gpf
+	//4189 2018-05-30cRagexeRE.rgz
+4190 2018-05-30data_sakray_002.rgz
+4191 2018-05-30data_sakray_003.gpf
+	//4192 2018-06-05bRagexeRE.rgz
+4193 2018-06-01data_client_f_sak.gpf 
+4194 2018-06-05data_sakray_001.rgz
+4195 2018-06-05data_sakray_001.gpf
+4196 2018-06-05data_sakray_002.rgz
+	//4197 2018-06-12aRagexeRE.rgz
+4198 2018-06-12data_sakray_001.gpf
+4199 2018-06-12data_sakray_001.rgz
+4200 2018-06-12data_sakray_k1.gpf
+	//4201 2018-06-12bRagexeRE.rgz
+4202 2018-06-12data_sakray_k2.gpf
+4203 2018-06-20data_sakray_001.rgz
+4204 2018-06-20data_sakray_001.gpf
+4205 2018-06-20data_all_k1.gpf
+4206 2018-06-20data_all_k2.gpf
+4207 2018-06-20data_all_k3.gpf
+	//4208 2018-06-20dRagexeRE.rgz
+	//4209 2018-06-20eRagexeRE.rgz
+4210 2018-06-20data_sakray_003.rgz
+4211 2018-06-20data_sakray_003.gpf
+	//4212 2018-06-21aRagexeRE.rgz
+4213 2018-06-21data_all_k1.gpf
+4214 2018-06-27data_sakray_001.rgz
+4215 2018-06-27data_sakray_001.gpf
+4216 2018-06-27data_sakray_002.gpf
+	//4217 2018-07-04aRagexeRE.rgz
+4218 2018-07-04data_sakray_001.rgz
+4219 2018-07-04data_sakray_001.gpf
+4220 2018-07-04data_sakray_002.rgz
+4221 2018-07-04data_sakray_003.rgz
+4222 2018-07-04data_sakray_004.gpf
+4223 2018-07-04data_sakray_005.rgz
+4224 2018-07-04data_sakray_006.rgz
+4225 2018-07-04data_sakray_007.rgz
+4226 2018-07-04data_sakray_008.rgz
+4227 2018-07-04data_sakray_009.rgz
+4228 2018-07-11data_sakray_001.rgz
+4229 2018-07-11data_sakray_001.gpf
+	//4230 2018-07-11aRagexeRE.rgz
+4231 2018-07-11data_sakray_002.rgz
+	//4232 2018-07-18bRagexeRE.rgz
+4233 2018-07-18data_sakray_001.rgz
+4234 2018-07-18data_sakray_001.gpf
+4235 2018-07-18data_sakray_k2.gpf
+4236 2018-07-17data_sakray_k3.gpf
+	//4237 2018-07-18bRagexeRE.rgz
+4238 2018-07-18data_sakray_k4.gpf
+4239 2018-07-18data_sakray_002.gpf
+4240 2018-07-18data_sakray_002.rgz
+4241 2018-07-18data_sakray_003.rgz
+4242 2018-07-18data_sakray_004.rgz
+4243 2018-07-18data_client3_sak.gpf
+4244 2018-07-18data_sakray_005.rgz
+	//4245 2018-07-18cRagexeRE.rgz
+4246 2018-07-18data_sakray_006.rgz
+4247 2018-07-18data_sakray_007.gpf
+4248 2018-07-18data_sakray_k5.gpf
+4249 2018-07-18data_sakray_008.gpf
+4250 2018-07-25data_sakray_001.rgz
+4251 2018-07-25data_sakray_001.gpf
+4252 2018-07-25data_sakray_002.gpf
+4253 2018-07-25data_sakray_003.rgz
+	//4254 2018-07-25data_sakray_004.rgz
+4255 2018-07-25data_sakray_004.rgz
+	//4256 2018-08-01cRagexeRE.rgz
+4257 2018-08-01data_sakray_k1.rgz
+4258 2018-08-01data_all_k1.gpf
+	//4259 2018-08-01data_sakray_001.rgz
+	//4260 2018-08-01data_sakray_001.gpf
+	//4261 2018-08-01data_sakray_002.gpf
+4262 2018-08-01data_sakray_003.rgz
+4263 2018-08-01data_sakray_003.gpf
+4264 2018-08-01data_sakray_004.gpf
+	//4265 2018-08-08bRagexeRE.rgz
+4266 2018-08-08data_sakray_001.rgz
+4267 2018-08-08data_sakray_001.gpf
+4268 2018-08-08data_sakray_002.rgz
+4269 2018-08-08data_all_k1.gpf
+	//4270 2018-08-14data_all_k1.gpf
+4271 2018-08-14data_sakray_001.rgz
+4272 2018-08-14data_sakray_001.gpf
+4273 2018-08-08data_true_005.gpf
+	//4274 2018-08-22cRagexeRE.rgz
+4275 2018-08-22data_sakray_001.rgz
+4276 2018-08-22data_sakray_001.gpf
+	//4277 2018-08-29aRagexeRE.rgz
+4278 2018-08-29data_sakray_001.rgz
+4279 2018-08-29data_sakray_001.gpf
+4280 2018-08-29data_sakray_002.rgz
+4281 2018-08-29data_sakray_003.rgz
+	//4282 2018-08-29bRagexeRE.rgz
+4283 2018-08-29data_sakray_004.rgz
+4284 2018-09-05data_sakray_001.gpf
+4285 2018-09-05data_sakray_001.rgz
+4286 2018-09-12dRagexeRE.rgz
+4287 2018-09-12data_sakray_k1.gpf
+4288 2018-09-12data_sakray_001.rgz
+4289 2018-09-12data_sakray_001.gpf
+	//4290 2018-09-19aRagexeRE.rgz
+4291 2018-09-19data_sakray_001.rgz
+4292 2018-09-19data_sakray_001.gpf
+4293 2018-09-19data_sakray_002.rgz
+4294 2018-09-19data_sakray_003.gpf
+	//4295 2018-10-02aRagexeRE.rgz
+4296 2018-10-02data_sakray_001.gpf
+4297 2018-10-02data_sakray_001.rgz
+4298 2018-10-02data_sakray_002.rgz
+4299 2018-10-02data_sakray_003.rgz
+4300 2018-10-02data_sakray_004.rgz
+	//4301 2018-10-02bRagexeRE.rgz
+4302 2018-10-10data_sakray_001.gpf
+4303 2018-10-10data_sakray_001.rgz
+4304 2018-10-17_Sakray_J1.rgz
+	//4305 2018-10-17bRagexeRE.rgz
+4306 2018-10-17data_sakray_001.rgz
+4307 2018-10-17data_sakray_001.gpf
+	//4308 2018-10-17_02aRagexeRE.rgz
+	//4309 2018-10-17_03aRagexeRE.rgz
+4310 2018-10-24data_sakray_001.rgz
+4311 2018-10-24data_sakray_001.gpf
+	//4312 2018-10-31cRagexeRE.rgz
+4313 2018-10-31data_sakray_001.gpf
+4314 2018-10-31data_sakray_001.rgz
+4315 2018-10-31data_sakray_002.gpf
+	//4316 2018-11-07aRagexeRE.rgz
+4317 2018-11-07data_sakray_001.gpf
+4318 2018-11-07data_sakray_001.rgz
+4319 2018-11-07data_sakray_002.rgz
+4320 2018-11-07data_sakray_003.rgz
+	//4321 2018-11-14cRagexeRE.rgz
+4322 2018-11-14data_sakray_001.gpf
+4323 2018-11-14data_sakray_J1.gpf
+4324 2018-11-14data_sakray_J2.rgz
+	//4325 2018-11-14dRagexeRE.rgz
+	//4326 2018-11-21cRagexeRE.rgz
+4327 2018-11-21data_sakray_001.gpf
+4328 2018-11-21data_sakray_001.rgz
+4329 2018-11-21data_sakray_002.rgz
+	//4330 2018-11-28aRagexeRE.rgz
+4331 2018-11-28data_sakray_001.gpf
+	//4332 2018-12-05bRagexeRE.rgz
+4333 2018-12-05data_sakray_001J.gpf
+4334 2018-12-05data_sakray_001.rgz
+4335 2018-12-05data_sakray_001.gpf
+4336 2018-12-05data_sakray_002.gpf
+	//4337 2018-12-12aRagexeRE.rgz
+4338 2018-12-12data_sakJ3.gpf
+4339 2018-12-12data_sakray_001.gpf
+4340 2018-12-12data_sakray_001.rgz
+4341 2018-12-12data_sakray_002.gpf
+	//4342 2018-12-12bRagexeRE.rgz
+4343 2018-12-12data_SakJh.rgz
+4344 2018-12-12data_SakJh2.rgz
+	//4345 2018-12-19bRagexeRE.rgz
+4346 2018-12-19data_sakray_001.gpf
+4347 2018-12-19data_sakray_001.rgz
+4348 2018-12-19data_sakray_002.rgz
+	//4349 2018-12-26aRagexeRE.rgz
+4350 2018-12-26data_sakray_001.gpf
+4351 2018-12-26_sakjj.gpf
+4352 2018-12-26data_sakray_002.gpf
+4353 2019-01-02data_sakray_001.gpf
+4354 2019-01-02data_sakray_001.rgz
+4355 2019-01-02data_sakray_002.gpf
+	//4356 2019-01-09bRagexeRE.rgz
+4357 2019-01-09_sakray_J3.gpf
+4358 2019-01-09data_sakray_001.rgz
+4359 2019-01-09data_sakray_001.gpf
+4360 2019-01-16data_sakray_001.gpf
+4361 2019-01-16data_sakray_001.rgz
+	//4362 2019-01-16bRagexeRE.rgz
+	//4363 2019-01-16cRagexeRE.rgz
+	//4364 2019-01-23dRagexeRE.rgz
+4365 2019-01-23data_sakray_001.rgz
+4366 2019-01-23data_sakray_001.gpf
+4367 2019-01-30data_sakray_001.rgz
+4368 2019-01-30data_sakray_001.gpf
+4369 2019-02-07data_sakray_001.rgz
+4370 2019-02-07data_sakray_002.rgz
+4371 2019-02-11data_client_sak.gpf
+4372 2019-02-13data_sakray_001.gpf
+4373 2019-02-13data_sakray_001.rgz
+	//4374 2019-02-13IRagexeRE.rgz
+4375 2019-02-13data_true_J.rgz
+4376 2019-02-20data_sakray_001.gpf
+4377 2019-02-20data_sakray_001.rgz
+4378 2019-02-20data_sakj.gpf
+	//4379 2019-02-20aRagexeRE.rgz
+	//4380 2019-02-27bRagexeRE.rgz
+4381 2019-02-27data_sakray_001.gpf
+4382 2019-02-27data_sakray_001.rgz
+4383 2019-02-27data_sakray_002.gpf
+	//4384 2019-02-28aRagexeRE.rgz
+4385 2019-03-06data_sakray_001.rgz
+4386 2019-03-06data_sakray_001.gpf
+	//4387 2019-03-06bRagexeRE.rgz
+	//4388 2019-03-06cRagexeRE.rgz
+4389 2019-03-13data_guildtip.rgz
+4390 2019-03-13data_sakray_001.rgz
+4391 2019-03-13data_sakray_001.gpf
+	//4392 2019-03-20aRagexeRE.rgz
+4393 2019-03-20data_sakray_001.gpf
+4394 2019-03-20data_sakray_001.rgz
+4395 2019-03-20data_sakray_H.gpf
+	//4396 2019-03-22aRagexeRE.rgz
+	//4397 2019-03-27bRagexeRE.rgz
+4398 2019-03-27data_sakray_001.rgz
+4399 2019-03-27data_sakray_001.gpf
+4400 2019-04-03data_sakray_001.gpf
+4401 2019-04-03data_sakray_001.rgz
+4402 2019-04-03data_true_JJ.gpf
+	//4403 2019-04-03bRagexeRE.rgz
+	//4404 2019-04-03cRagexeRE.rgz
+4405 2019-04-03data_sakray_002.gpf
+4406 2019-04-10data_sakray_001.rgz
+4407 2019-04-10data_sakray_001.gpf
+4408 2019-04-10data_sakray_002.gpf
+4409 2019-04-17data_sakray_001.rgz
+4410 2019-04-17data_sakray_001.gpf
+	//4411 2019-04-17cRagexeRE.rgz
+	//4412 2019-04-18aRagexeRE.rgz
+4413 2019-04-18data_sakray_001.gpf
+4414 2019-04-24data_sakray_001.rgz
+4415 2019-04-24data_sakray_001.gpf
+4416 2019-05-02_Sakray_J2.gpf
+4417 2019-05-02_Sakray_J.rgz
+4418 2019-05-02data_sakray_001.rgz
+4419 2019-05-02data_sakray_001.gpf
+4420 2019-05-02data_sakray_002.rgz
+4421 2019-05-02data_sakray_003.gpf
+4422 2019-05-02data_sakray_004.rgz
+	//4423 2019-05-02_Sakray_J4.rgz
+4424 2019-05-02_Sakray_J5.rgz
+	//4425 2019-05-08dRagexeRE.rgz
+4426 2019-05-08data_sakray_001.rgz
+4427 2019-05-08data_sakray_001.gpf
+4428 2019-05-08data_sakray_J.gpf
+4429 2019-05-08data_sakray_J2.gpf
+	//4430 2019-05-08eRagexeRE.rgz
+4431 2019-05-15data_SakJ.rgz
+4432 2019-05-15data_sakray_001.rgz
+4433 2019-05-15data_sakray_001.gpf
+4434 2019-05-15data_sakray_002.rgz
+	//4435 2019-05-22bRagexeRE.rgz
+4436 2019-05-22data_sakray_001.gpf
+4437 2019-05-22data_sakray_001.rgz
+4438 2019-05-22data_sakray_002.gpf
+4439 2019-05-22data_sakray_002.rgz
+4440 2019-05-22data_sakray_003.gpf
+4441 2019-05-22data_sakray_004.gpf
+	//4442 2019-05-22cRagexeRE.rgz
+4443 2019-05-23data_sakray_001.gpf
+	//4444 2019-05-29bRagexeRE.rgz
+4445 2019-05-29data_sakray_001.gpf
+4446 2019-05-29data_sakray_001.rgz
+	//4447 2019-05-29cRagexeRE.rgz
+	//4448 2019-05-30aRagexeRE.rgz
+4447 2019-06-05data_sakray_k1.gpf
+	//4448 2019-06-05hRagexeRE.rgz
+4449 2019-06-05data_sakray_001.rgz
+4450 2019-06-05data_sakray_001.gpf
+	//4451 2019-06-05JRagexeRE.rgz
+4452 2019-06-05data_sakray_002.rgz
+	//4453 2019-06-05LRagexeRE.rgz
+4454 2019-06-12data_sakray_001.gpf
+4455 2019-06-12data_sakray_001.rgz
+4456 2019-06-12_true_H.gpf
+4457 2019-06-05data_sakray_k1.gpf
+4458 2019-06-19data_sakray_001.rgz
+4459 2019-06-19data_sakray_001.gpf
+	//4460 2019-06-19cRagexeRE.rgz
+4461 2019-06-19data_sakray_002.rgz
+4462 2019-06-26data_sakray_001.rgz
+4463 2019-06-26data_sakray_001.gpf
+	//4464 2019-06-26bRagexeRE.rgz
+4465 2019-07-03data_sakray_001.gpf
+4466 2019-07-03data_sakray_001.rgz
+	//4467 2019-07-03bRagexeRE.rgz
+4468 2019-07-03data_sakray_002.gpf
+4473 2019-07-10data_sakray_001.gpf
+4474 2019-07-10data_sakray_001.rgz
+4475 2019-07-10data_sakray_002.rgz
+4476 2019-07-17data_sakray_001.rgz
+4477 2019-07-17data_sakray_001.gpf
+	//4478 2019-07-17cRagexeRE.rgz
+4479 2019-07-17data_client_00_sak.gpf
+	//4480 2019-07-17dRagexeRE.rgz
+4481 2019-07-17data_sakray_002.gpf
+	//4482 2019-07-24bRagexeRE.rgz
+4483 2019-07-24data_sakray_001.rgz
+4484 2019-07-24data_sakray_001.gpf
+4485 2019-07-24data_sakray_002.rgz
+4486 2019-07-31data_J.rgz
+	//4487 2019-07-31bRagexeRE.rgz
+4488 2019-07-31data_sakray_001.rgz
+4489 2019-07-31data_sakray_001.gpf
+4490 2019-07-31data_sakray_002.gpf
+4491 2019-07-31data_sakray_002.rgz
+	//4492 2019-08-02aRagexeRE.rgz
+	//4493 2019-08-07dRagexeRE.rgz
+4494 2019-08-07data_sakray_001.rgz
+4495 2019-08-07data_sakray_001.gpf
+4496 2019-08-07data_sakray_002.rgz
+4497 2019-08-07data_sakray_002.gpf
+4498 2019-08-07data_sakray_003.rgz
+4499 2019-08-14data_sakray_001.rgz
+4500 2019-08-14data_sakray_001.gpf
+4501 2019-08-14data_sakray_002.gpf
+4502 2019-08-19data_sak4.gpf
+	//4503 2019-08-21cRagexeRE.rgz
+4504 2019-08-21data_sakray_001.rgz
+4505 2019-08-21data_sakray_001.gpf
+	//4506 2019-08-21cRagexeRE.rgz
+	//4507 2019-08-21dRagexeRE.rgz
+4508 2019-08-28data_sakray_001.rgz
+	//4509 2019-08-28aRagexeRE.rgz
+	//4510 2019-09-04aRagexeRE.rgz
+4511 2019-09-04data_sakray_001.rgz
+4512 2019-09-04data_sakray_001.gpf
+	//4513 2019-09-04bRagexeRE.rgz
+4514 2019-09-04data_sakray_002.rgz
+4515 2019-09-04data_sakray_002.gpf
+4516 2019-09-04data_sakray_003.rgz
+4517 2019-09-11data_sakray_001.rgz
+4518 2019-09-11data_sakray_001.gpf
+4519 2019-09-11data_sakj.gpf
+4520 2019-09-18data_sakray_001.rgz
+4521 2019-09-18data_sakray_001.gpf
+4522 2019-09-18data_sakj2.gpf
+4523 2019-09-18data_sakj.gpf
+	//4524 2019-09-18cRagexeRE.rgz
+4525 2019-09-25data_sakray_001.rgz
+	//4526 2019-09-25aRagexeRE.rgz
+	//4527 2019-09-25bRagexeRE.rgz
+	//4528 2019-10-02bRagexeRE.rgz
+4529 2019-10-02data_sakray_001.gpf
+4530 2019-10-02data_sakray_001.rgz
+	//4531 2019-10-02dRagexeRE.rgz
+4532 2019-10-02data_sakray_002.rgz
+4533 2019-10-02data_sakray_003.gpf
+4534 2019-10-02data_sakray_003.rgz
+4535 2019-10-02data_sakray_004.rgz
+4536 2019-10-02data_sakray_006.rgz
+4537 2019-10-02data_sakray_005.gpf
+4538 2019-10-02data_sakray_007.rgz
+4539 2019-10-02data_sakray_007.gpf
+4540 2019-10-02data_sakray_008.rgz
+4541 2019-10-08data_sakray_001.rgz
+4542 2019-10-08data_sakray_001.gpf
+4543 2019-10-08data_sakray_002.rgz
+4544 2019-10-08data_sakray_003.rgz
+4545 2019-10-16data_sakray_001.rgz
+4546 2019-10-16data_sakray_001.gpf
+4547 2019-10-16data_sakJ.gpf
+	//4548 2019-10-16fRagexeRE.rgz
+4549 2019-10-16data_sakray_002.gpf
+4550 2019-10-16data_sakJ2.gpf
+4551 2019-10-16data_sakray_003.rgz
+	//4552 2019-10-16gRagexeRE.rgz
+4553 2019-10-16data_sakray_004.gpf
+4554 2019-10-23data_sakray_001.gpf
+4555 2019-10-23data_sakray_001.rgz
+	//4556 2019-10-23aRagexeRE.rgz
+4557 2019-10-23data_sakray_002.gpf
+4558 2019-10-23data_sakray_003.gpf
+4559 2019-10-30data_sakray_001.gpf
+4560 2019-10-30data_sakray_001.rgz
+	//4561 2019-10-30bRagexeRE.rgz
+4562 2019-10-30data_sakray_002.rgz
+4563 2019-10-30data_sakray_002.gpf
+4564 2019-11-06data_sakray_001.gpf
+4565 2019-11-06data_sakray_001.rgz
+	//4566 2019-11-06bRagexeRE.rgz
+	//4567 2019-11-07aRagexeRE.rgz
+4568 2019-11-07data_sakray_001.rgz
+4569 2019-11-07data_sakray_001.gpf
+	//4570 2019-11-13eRagexeRE.rgz
+4571 2019-11-13data_sakray_001.rgz
+4572 2019-11-13data_sakray_001.gpf
+	//4573 2019-11-20cRagexeRE.rgz
+	//4574 2019-11-19data_sakray_001.rgz
+4575 2019-11-19data_sakray_001.gpf
+4576 2019-11-19data_sakray_001.rgz
+4577 2019-11-20data_sakray_001.gpf
+4578 2019-11-20data_sakray_001.rgz
+	//4579 2019-11-27aRagexeRE.rgz
+4580 2019-11-27data_sakray_001.rgz
+4581 2019-11-27data_sakray_001.gpf
+	//4582 2019-12-04aRagexeRE.rgz
+4583 2019-12-04data_sakray_001.rgz
+4584 2019-12-04data_sakray_001.gpf
+	//4585 2019-12-04bRagexeRE.rgz
+	//4586 2019-12-04aRagexeRE.rgz
+	//4587 2019-12-04cRagexeRE.rgz
+	//4588 2019-12-11fRagexeRE.rgz
+4589 2019-12-11data_sakray_001.rgz
+4590 2019-12-11data_sakray_001.gpf
+4591 2019-12-11_data_sakJ1.gpf
+4592 2019-12-11_data_sakJ2.gpf
+4593 2019-12-17data_sakray_001.rgz
+4594 2019-12-17data_sakray_001.gpf
+	//4595 2019-12-18bRagexeRE.rgz
+	//4596 2019-12-24aRagexeRE.rgz
+4597 2019-12-23data_sakray_001.rgz
+4598 2019-12-23data_sakray_001.gpf
+	//4599 2019-12-24bRagexeRE.rgz
+	//4600 2020-01-08bRagexeRE.rgz
+4601 2020-01-07data_sakray_001.rgz
+4602 2020-01-07data_sakray_001.gpf
+4603 2020-01-08data_sakJ.gpf
+4604 2020-01-14data_sakray_001.rgz
+4605 2020-01-14data_sakray_001.gpf
+4606 2020-01-21data_sakray_001.rgz
+4607 2020-01-21data_sakray_001.gpf
+	//4608 2020-01-22cRagexeRE.rgz
+4609 2020-01-22data_sakray_002.rgz
+4610 2020-01-28data_sakray_001.rgz
+4611 2020-01-28data_sakray_001.gpf
+4612 2020-01-29data_sakray_002.gpf
+4613 2020-02-04data_sakray_001.gpf
+4614 2020-02-04data_sakray_001.rgz
+	//4615 2020-02-05aRagexeRE.rgz
+4616 2020-02-11data_sakray_001.rgz
+4617 2020-02-11data_sakray_001.gpf
+4618 2020-02-12aRagexeRE.rgz
+4619 2020-02-12data_sakray_002.gpf
+4620 2020-02-12data_sakray_003.gpf
+4621 2020-02-12data_sakray_004.gpf
+4622 2020-02-19_sakray_J.rgz
