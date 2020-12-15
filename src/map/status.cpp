@@ -3912,6 +3912,23 @@ int status_calc_pc_sub(struct map_session_data* sd, enum e_status_calc_opt opt)
 	pc_delautobonus(sd, sd->autobonus3, true);
 
 	// Parse equipment
+	for (i = 0; i<MAX_INVENTORY; i++) {
+		if (!sd->inventory_data[i])
+			continue;
+		if (sd->inventory_data[i]->type == IT_CHARM) {
+			if (sd->inventory_data[i]->script && sd->inventory_data[i]->elv <= sd->status.base_level) {
+				if ((!((1 << (sd->class_&MAPID_BASEMASK)) &(sd->inventory_data[i]->class_base[sd->class_&JOBL_2_1 ? 1 : (sd->class_&JOBL_2_2 ? 2 : 0)])))
+					 || (!((1 << (sd->class_&JOBL_UPPER ? 1 : (sd->class_&JOBL_BABY ? 2 : 0))) &sd->inventory_data[i]->class_upper))) continue;
+				run_script(sd->inventory_data[i]->script, 0, sd->bl.id, 0);
+				if (!calculating) //Abort, run_script retriggered this. [Skotlex]
+					 return 1;
+				
+			}
+		}
+	}
+	
+
+
 	for (i = 0; i < EQI_MAX; i++) {
 		current_equip_item_index = index = sd->equip_index[i]; // We pass INDEX to current_equip_item_index - for EQUIP_SCRIPT (new cards solution) [Lupus]
 		current_equip_combo_pos = 0;

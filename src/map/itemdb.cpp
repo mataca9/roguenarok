@@ -2691,6 +2691,7 @@ bool item_data::isStackable()
 		case IT_PETEGG:
 		case IT_PETARMOR:
 		case IT_SHADOWGEAR:
+		case IT_CHARM:
 			return false;
 	}
 	return true;

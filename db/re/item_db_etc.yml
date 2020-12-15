@@ -11016,7 +11016,7 @@ Body:
   - Id: 4704
     AegisName: Strength5
     Name: STR+5
-    Type: Card
+    Type: Charm
     Buy: 20
     Weight: 10
     Script: |

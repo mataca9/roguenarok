@@ -118,7 +118,14 @@ static inline int itemtype(t_itemid nameid) {
 		else
 			return IT_ARMOR;
 	}
-	return ( type == IT_PETEGG ) ? IT_ARMOR : type;
+
+	if (type == IT_PETEGG) {
+		return IT_ARMOR;
+	} else if (type == IT_CHARM) {
+		return IT_ETC;
+	} else {
+		return type;
+	}
 }
 
 // TODO: doc
